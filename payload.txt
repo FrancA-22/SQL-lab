@@ -1,0 +1,2 @@
+
+' UNION SELECT 1, key || '=' || value FROM config-- -
